@@ -1,0 +1,74 @@
+﻿  imageloader.cpp
+  main.cpp
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(32,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(32,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(43,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(43,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(51,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(53,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(54,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(55,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(56,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(57,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(58,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(59,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(60,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(61,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(62,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(63,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(64,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(65,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(66,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(67,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(139,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(139,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(140,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(140,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(141,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(141,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(142,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(142,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(143,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(143,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(144,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(144,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(145,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(145,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(146,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(146,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(157,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(169,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(181,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(201,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(225,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(238,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(238,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(261,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(261,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(284,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(284,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(307,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(307,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(336,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(336,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(354,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(367,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(367,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(387,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(400,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(400,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(406,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(406,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(407,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(407,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(424,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(437,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(437,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(453,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(466,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\enzog\Desktop\Sistema Solar\main.cpp(466,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 194 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SolarSystem.vcxproj -> C:\Users\enzog\Desktop\Sistema Solar\Release\Sistema Solar.exe

@@ -1,0 +1,4 @@
+C:\Users\enzog\Desktop\Copia boa - Copy\Release\glew32.dll
+C:\Users\enzog\Desktop\Copia boa - Copy\Release\Sistema Solar.exe
+C:\Users\enzog\Desktop\Sistema Solar\Release\Sistema Solar.exe
+C:\Users\enzog\Desktop\Sistema Solar\Release\glew32.dll
